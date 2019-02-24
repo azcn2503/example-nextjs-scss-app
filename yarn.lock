@@ -1838,8 +1838,8 @@ evp_bytestokey@^1.0.0, evp_bytestokey@^1.0.3:
     safe-buffer "^5.1.1"
 
 "example-nextjs-scss-module@git+ssh://git@github.com/azcn2503/example-nextjs-scss-module":
-  version "0.0.0"
-  resolved "git+ssh://git@github.com/azcn2503/example-nextjs-scss-module#f06bcd7b9f0d02960cd61be78d84d8da8fc68f42"
+  version "1.0.0"
+  resolved "git+ssh://git@github.com/azcn2503/example-nextjs-scss-module#faedbadc1e9ecf62c39124240077b192af93604f"
 
 expand-brackets@^2.1.4:
   version "2.1.4"
