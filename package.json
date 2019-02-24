@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "name": "example-nextjs-scss-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:azcn2503/example-nextjs-scss-app.git",
+  "author": "Aaron Cunnington <aaron.cunnington@ripjar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "example-nextjs-scss-module": "git+ssh://git@github.com/azcn2503/example-nextjs-scss-module",
+    "next": "^8.0.3",
+    "node-sass": "^4.11.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
